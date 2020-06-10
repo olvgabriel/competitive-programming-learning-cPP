@@ -4,8 +4,11 @@ using namespace std;
 
 int main() {
 
-    cout << "Hello World!" << endl;
+    int L;
 
+    cin >> L;
+
+    cout << L*L << endl;
 
 
     return 0;
